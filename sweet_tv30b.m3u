@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH/epg_noarch.xml.gz"
+
+#EXTINF:-1 group-title="Sweet-TV",Test Channel
+http://example.com/stream.m3u8
+
