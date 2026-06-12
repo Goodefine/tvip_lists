@@ -4,3 +4,81 @@
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",ТСВ
 http://tsv.md/stream/hls/tsv-online/0_1/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Турецкие сериалы
+https://tvs.cdntvtech.com/3/livetv.php?key=dizi.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Телепутешествия
+https://cdntelehub.com/3/livetv.php?key=teleputeshestviya.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",2FILMAX Комедия
+https://tvs.cdntvtech.com/3/livetv.php?key=c-comedy.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",3FILMAX Мелодрама
+https://tvs.cdntvtech.com/3/livetv.php?key=ys-melodrama.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",1FILMAX Фантастика
+https://tvs.cdntvtech.com/3/livetv.php?key=next-epic.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Trash TV
+https://cdntelestream.com/3/livetv.php?key=trash.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Скорость
+https://cdntelehub.com/4/livetv.php?key=mm-skorost.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Мульт БУМ!
+https://tvs.cdntvtech.com/3/livetv.php?key=next-joy.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Premiere
+https://cdnstreamhub.com/2/livetv.php?key=vs-premiere.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Фантастика
+https://cdntelehub.com/4/livetv.php?key=mm-fantastika.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Fantastic
+https://cdntelehub.com/4/livetv.php?key=kbc-fantastic.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Страшное
+https://cdnstreamhub.com/2/livetv.php?key=vs-strashnoe.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Movie Hits
+https://cdnstreamhub.com/2/livetv.php?key=vs-moviehits.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Thriller
+https://live.cdntvtech.com/3/livetv.php?key=ys-thriller.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Grand
+https://live.cdntvtech.com/3/livetv.php?key=ys-grand.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Adventure
+https://live.cdntvtech.com/3/livetv.php?key=ys-adventure.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Триллер
+https://cdnstreamhub.com/2/livetv.php?key=vs-triller.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Adrenaline
+https://cdntelehub.com/4/livetv.php?key=ys-adrenaline.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO New Кино
+https://live.cdntvtech.com/3/livetv.php?key=ys-newkino.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Goblin
+https://cdntelestream.com/3/livetv.php?key=kbc-goblin.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Приключения
+https://cdntelestream.com/3/livetv.php?key=mm-priklyucheniya.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM 007
+https://cdntelestream.com/3/livetv.php?key=mm-007.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Elite Comedys
+https://cdntelestream.com/3/livetv.php?key=kbc-elite-comedys.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Боевик
+https://cdntelestream.com/3/livetv.php?key=mm-boevik.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Newfilm
+https://cdntelestream.com/3/livetv.php?key=kbc-newfilm.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Ужастик
+https://cdntelestream.com/3/livetv.php?key=mm-uzhastik.m3u8
+
