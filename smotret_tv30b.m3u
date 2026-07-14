@@ -4,17 +4,17 @@
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",ТСВ
 http://tsv.md/stream/hls/tsv-online/0_1/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Мир
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",RTG
+https://s70378.cdn.ngenix.net/rtg_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Нано ТВ
 https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Карусель
-https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Восьмой
 https://v4.proofix.ru/8tv-russia/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Мир
-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
@@ -22,191 +22,173 @@ https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",РБК
-https://online-video.rbc.ru/online/rbctvhd.m3u8?e=e6&t=pefXF4
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Доктор
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Моя планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",НТВ Мир
 https://streaming.thestream.cyou/live/213.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Соловьев Live
-https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",РБК
+https://online-video.rbc.ru/online/rbctvhd.m3u8?e=e6&t=IfbCQU
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Россия 24
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Спас
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Звезда Плюс
-https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Setanta Sports 1
+https://cache1.cinerama.uz/blocked/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Драйв ТВ
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Соловьев Live
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Твоё ТВ Юмор
-https://tvoetv.space/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Охотник и рыболов
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Viasat History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Радио Спутник
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",BackusTV Music
-https://fl1003.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-t2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Союз
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Tennis Channel
-https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Турецкие сериалы
-https://tvs.cdntvtech.com/3/livetv.php?key=dizi.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Радио Спутник
-https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Звезда Плюс
+https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Крым 24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Твоё ТВ Юмор
+https://tvoetv.space/tvoetv_humor/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Setanta Sports 2
+https://cache1.cinerama.uz/blocked/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",360 Новости
 https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Телепутешествия
-https://cdntelehub.com/3/livetv.php?key=teleputeshestviya.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Trace Sport Stars
-https://stream8.cinerama.uz/1274/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Магнат ТВ
-https://s1.tv-nano.com/Magnat/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",2FILMAX Комедия
-https://tvs.cdntvtech.com/3/livetv.php?key=c-comedy.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",7tv
-https://v4.proofix.ru/7tv-live/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",1FILMAX Фантастика
-https://tvs.cdntvtech.com/3/livetv.php?key=next-epic.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Trash TV
-https://cdntelestream.com/3/livetv.php?key=trash.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",3FILMAX Мелодрама
-https://tvs.cdntvtech.com/3/livetv.php?key=ys-melodrama.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",XFC TV Fightworld
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Univer TV
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",РТР-Планета
+https://streaming.thestream.cyou/live/211.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Motor Racing
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",QazSport
-https://block.qazcdn.com/block/geoblock.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Boxing TV
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Rock TV
-https://rpn.bozztv.com/gusa/gusa-hotrock/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",QazSport
+https://block.qazcdn.com/block/geoblock.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Luxury
-https://s1.tv-nano.com/Luxury_rec/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Trace Sport Stars
+https://stream8.cinerama.uz/1274/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Univer TV
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Магнат ТВ
+https://s1.tv-nano.com/Magnat/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",XFC TV Fightworld
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Турецкие сериалы
+https://tv.cdntvtech.com/3/livetv.php?key=dizi.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",2FILMAX Комедия
+https://live.cdntvtech.com/4/livetv.php?key=c-comedy.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Luxury
+https://s1.tv-nano.com/Luxury_rec/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Retro Music TV
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Калейдоскоп
-https://serv25.vintera.tv/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Trace Urban
-https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",World Poker Tour
-https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",KroneHit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",V2Beat
-https://abr.de1se01.v2beat.live/playlist.m3u8
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",SONGTV Россия
 https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Фантастика
-https://tvs.cdntvtech.com/4/livetv.php?key=mm-fantastika.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Tennis Channel
+https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Телепутешествия
+https://cdntelehub.com/3/livetv.php?key=teleputeshestviya.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",V2Beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",KroneHit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MuzzOne
+https://lbgo.bozztv.com/07/ushba-t3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",FreshTV
+https://fl1003.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Е ТВ
+https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",Ювелирочка
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Фантастика
+https://tvs.cdntvtech.com/4/livetv.php?key=mm-fantastika.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Скорость
+https://tvs.cdntvtech.com/4/livetv.php?key=mm-skorost.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Trash TV
+https://cdntelestream.com/3/livetv.php?key=trash.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Fantastic
 https://tvs.cdntvtech.com/4/livetv.php?key=kbc-fantastic.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Триллер
-https://cdntelehub.com/3/livetv.php?key=vs-triller.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Витрина ТВ
-https://v4.proofix.ru/vitrina-live/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Мульт БУМ!
-https://tvs.cdntvtech.com/3/livetv.php?key=next-joy.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Shopping Live
-https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Thriller
-https://cdntelehub.com/3/livetv.php?key=ys-thriller.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO New Кино
-https://cdntelehub.com/3/livetv.php?key=ys-newkino.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Рыжий
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Elite Comedys
 https://cdntelestream.com/3/livetv.php?key=kbc-elite-comedys.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Комедия
-https://cdntelehub.com/3/livetv.php?key=vs-komediya.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Ужастик
-https://cdntelestream.com/3/livetv.php?key=mm-uzhastik.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Гоблин
-https://cdntelehub.com/3/livetv.php?key=vs-goblin.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Боевик
-https://cdntelestream.com/3/livetv.php?key=mm-boevik.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Goblin
-https://cdntelestream.com/3/livetv.php?key=kbc-goblin.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Приключения
 https://cdntelestream.com/3/livetv.php?key=mm-priklyucheniya.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Скорость
-https://tvs.cdntvtech.com/4/livetv.php?key=mm-skorost.m3u8
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Гоблин
+https://cdntelehub.com/3/livetv.php?key=vs-goblin.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Newfilm
 https://cdntelestream.com/3/livetv.php?key=kbc-newfilm.m3u8
@@ -214,8 +196,59 @@ https://cdntelestream.com/3/livetv.php?key=kbc-newfilm.m3u8
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Adrenaline
 https://tvs.cdntvtech.com/4/livetv.php?key=ys-adrenaline.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",KBC-Goblin
+https://cdntelestream.com/3/livetv.php?key=kbc-goblin.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Комедия
+https://cdntelehub.com/3/livetv.php?key=vs-komediya.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Витрина ТВ
+https://v4.proofix.ru/vitrina-live/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Grand
+https://cdntelehub.com/3/livetv.php?key=ys-grand.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Страшное
 https://cdntelehub.com/3/livetv.php?key=vs-strashnoe.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",7tv
+https://v4.proofix.ru/7tv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO New Кино
+https://cdntelehub.com/3/livetv.php?key=ys-newkino.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Adventure
+https://cdntelehub.com/3/livetv.php?key=ys-adventure.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Триллер
+https://cdntelehub.com/3/livetv.php?key=vs-triller.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Movie Hits
+https://cdntelehub.com/3/livetv.php?key=vs-moviehits.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Thriller
+https://cdntelehub.com/3/livetv.php?key=ys-thriller.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",1FILMAX Фантастика
+https://live.cdntvtech.com/4/livetv.php?key=next-epic.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Мульт БУМ!
+https://live.cdntvtech.com/4/livetv.php?key=next-joy.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",3FILMAX Мелодрама
+https://tvs.cdntvtech.com/3/livetv.php?key=ys-melodrama.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Боевик
+https://cdntelestream.com/3/livetv.php?key=mm-boevik.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM Ужастик
+https://cdntelestream.com/3/livetv.php?key=mm-uzhastik.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",MM 007
 https://cdntelestream.com/3/livetv.php?key=mm-007.m3u8
@@ -223,15 +256,6 @@ https://cdntelestream.com/3/livetv.php?key=mm-007.m3u8
 #EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Premiere
 https://cdntelehub.com/3/livetv.php?key=vs-premiere.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",VeleS Movie Hits
-https://cdntelehub.com/3/livetv.php?key=vs-moviehits.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Adventure
-https://cdntelehub.com/3/livetv.php?key=ys-adventure.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",YOSSO Grand
-https://cdntelehub.com/3/livetv.php?key=ys-grand.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",9 TV (Израиль)
-https://tv.tvcdnpotok.com/9_izrail/index.m3u8?wmsAuthSign=3505e00efc49a1bf2a75d019d4ff96ee-1782911121-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Shopping Live
+https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8
 
